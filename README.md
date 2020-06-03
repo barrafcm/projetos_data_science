@@ -3,7 +3,7 @@
 </p>
 
 # Felipe Caldoncelli Barra Melo
-<sub>*Pilto Militar e Investigador de Acidentes Aeronáuticos</sub>
+<sub>*Piloto Militar e Investigador de Acidentes Aeronáuticos</sub>
 
 # Projetos de Data Science
 Portfólio pessoal de projetos de Data Science
