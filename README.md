@@ -18,3 +18,4 @@ Piloto Militar da Força Aérea Brasileira com especialização na Aviação de 
 </p>
 
 * Graduação em Ciências Aeronáuticas pela Academia da Força Aérea (Pirassununga-SP)
+* Graduação em Administração pela Academia da Força Aérea (Pirassununga-SP)
