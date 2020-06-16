@@ -6,9 +6,8 @@
 <sub>*Piloto Militar e Investigador de Acidentes Aeronáuticos</sub>
 
 # Projetos de Data Science
-Portfólio pessoal de projetos de Data Science
 
-Férias em Roma: uma análise das opções de hospedagem em AirBnb na "Cidade Eterna" 
+Férias em Roma: uma análise das opções de hospedagem em AirBnb na "Cidade Eterna". 
 
 A violência no Estado do Rio de Janeiro: Observando o panorama histórico com a utilização de Data Science.
 
