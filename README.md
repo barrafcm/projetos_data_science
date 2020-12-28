@@ -7,6 +7,9 @@
 
 # Projetos de Data Science
 
+
+Qual é o sentimento das pessoas ao assistirem a Esquadrilha da Fumaça? - Fazendo uma wordcloud com o chat da Live dos 68 anos.
+
 Férias em Roma: uma análise das opções de hospedagem em AirBnb na "Cidade Eterna". 
 
 A violência no Estado do Rio de Janeiro: Observando o panorama histórico com a utilização de Data Science.
