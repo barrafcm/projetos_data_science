@@ -12,6 +12,8 @@ Qual é o sentimento das pessoas ao assistirem a Esquadrilha da Fumaça? - Fazen
 
 Férias em Roma: uma análise das opções de hospedagem em AirBnb na "Cidade Eterna". 
 
+COVID-19: Analisando os dados da pandemia (Junho/2020)
+
 A violência no Estado do Rio de Janeiro: Observando o panorama histórico com a utilização de Data Science.
 
 
